@@ -44,6 +44,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/)..
 
 Describe any challenges encountered while building the app.
 
+All went well, the instructions were straight forward.
+
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
