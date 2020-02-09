@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<https://github.com/mupotsal/SimpleTweet/blob/master/twitter_walkthroughpp.gif'/>
+<img src="https://github.com/mupotsal/Flixster/blob/master/app/flixter_walkthrough_fin.gif" width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)..
 
